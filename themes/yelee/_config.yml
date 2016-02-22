@@ -12,10 +12,12 @@ menu:
   #关于我: /about/
 
 # Link to your avatar | 填写头像地址
-avatar: https://avatars3.githubusercontent.com/u/8597204?v=3&s=460
+#avatar: https://avatars3.githubusercontent.com/u/8597204?v=3&s=460
+#avatar: http://sg-avatars.b0.upaiyun.com/p/099b79849d124ffa92e0e82642d9f514-200w
+avatar: /favicon.ico
 
 # Small icon of Your site | 站点小图标地址
-favicon: https://avatars3.githubusercontent.com/u/8597204?v=3&s=460
+favicon: /favicon.ico
 
 # Social info. Bar | 社交信息展示
 ## Keep "mailto:" in Email | 设置 Email 时保留 "mailto:"
