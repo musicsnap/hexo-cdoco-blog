@@ -19,7 +19,7 @@ category: php扩展
     }
     public function setName($name)
     {
-        $this ->_name = $name;
+        $this->_name = $name;
     }
 }
 ```
